@@ -1,6 +1,6 @@
 # Salma Fadli G2 Finance
 # Assurance Santé
-![photo de salma fadli.jpeg](https://github.com/user-attachments/assets/19b86bed-ac87-4f8e-938c-862cf3722380)
+![photo de salma fadli.jpeg](https://github.com/fadlisalmaencg-a11y/DS-2025/blob/main/photo%20de%20salma%20fadli.jpeg?raw=true)
 # 📊 Compte Rendu d’Analyse & Clustering du Dataset *Insurance Charges*
 
 ## 📝 1. Introduction
